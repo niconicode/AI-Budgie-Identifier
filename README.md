@@ -1,6 +1,6 @@
 # Image Classifier with Finetuned Models
 
-This project implements an image classifier using a finetuned models from HuggingFace. Models used include ResNet-18, ResNet-152, and MobileNet-V2
+This project implements an image classifier using finetuned models from HuggingFace. Models used include ResNet-18, ResNet-152, and MobileNet-V2
 
 ## Project Overview
 
