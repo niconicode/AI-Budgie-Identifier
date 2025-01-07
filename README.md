@@ -42,5 +42,7 @@ The model achieves an accuracy of ~96-98% with the following hyperparameters:
 
 ## Usage
 
-1. **Mount Google Drive:** Mount your Google Drive to access the data files.
-2. **Install Libraries:** Install the necessary libraries using `pip`:
+1. **Copy files:** Clone repository or copy Google Colab files. 
+2. **Mount Google Drive:** Mount your Google Drive to access the data files.
+3. **Install Libraries:** Install the necessary libraries
+4. **Run File:** Run file to process data, load model, train, and evaluate.
